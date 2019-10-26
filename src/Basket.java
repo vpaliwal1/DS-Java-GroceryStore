@@ -1,4 +1,4 @@
-
+// basket class
 public class Basket {
 	private LinkedList product;
 	private LinkedList freshProducts;
